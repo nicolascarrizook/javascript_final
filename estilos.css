@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700");
 
 :root {
-  --primaryColor: #f09d51;
+  --primaryColor: #7fc5a4;
   --mainWhite: #fff;
   --mainBlack: #222;
   --mainGrey: #ececec;
@@ -58,7 +58,7 @@ body {
 /* --------------- Hero ---------------- */
 .hero {
   min-height: calc(100vh - 60px);
-  background: url("./images/hero-bcg.jpeg") center/cover no-repeat;
+  background: url("./images/hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
