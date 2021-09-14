@@ -23,7 +23,7 @@ let cart = [];
 
 let buttonsDom = [];
 
-// Obtenemos los productos de un archivo JSON
+// Obtenemos los productos de un archivo JSON externo situado en contentful
 class Products {
     async getProducts(){
         try {
